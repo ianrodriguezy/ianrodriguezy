@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ian-rodriguez-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/ian-rodriguez-8351a1221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ian%20Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
@@ -44,7 +44,21 @@ Busco mi **primer rol como Backend Developer** para aportar desde el día uno y 
 
 ## 📂 Proyectos destacados
 
-> 🚧 *Próximamente — trabajando en un proyecto propio con Spring Boot + JWT + PostgreSQL*
+### 🔐 [ForoHub](https://github.com/ianrodriguezy/foro_hub)
+API RESTful para un foro interactivo desarrollada con **Spring Boot**. Implementa autenticación con **JWT**, CRUD completo de tópicos y endpoints bien definidos.
+`Java` `Spring Boot` `Spring Security` `JWT` `Maven` `REST API`
+
+### 📚 [LiteraAlura](https://github.com/ianrodriguezy/literalura)
+Aplicación de catálogo de libros que **consume la API externa Gutendex** y almacena los datos en **PostgreSQL**. Permite buscar libros, explorar autores y filtrar por idioma o año.
+`Java` `Spring Boot` `PostgreSQL` `Hibernate` `API externa` `Maven`
+
+### 🏠 [Sistema de Gestión Inmobiliaria](https://github.com/ianrodriguezy/Inmobiliaria)
+Sistema integral para gestión de propiedades, contratos de alquiler, inquilinos y propietarios con autenticación. Incluye **diagramas UML** del diseño.
+`Java` `MariaDB` `JDBC` `Java Swing` `UML`
+
+### 🎓 [Sistema de Gestión Universitaria](https://github.com/ianrodriguezy/ProyectoTransversalUniversidad)
+Plataforma para administrar alumnos, materias, notas e inscripciones con sistema de login.
+`Java` `MySQL` `JDBC`
 
 ---
 
@@ -54,7 +68,7 @@ Busco mi **primer rol como Backend Developer** para aportar desde el día uno y 
 |---|---|---|
 | Backend Developer — Oracle Next Education (ONE) | Alura Latam | 2024 – 2025 |
 | Grado Superior DAM | CESUR, Murcia | 2025 – 2027 |
-| Desarrollador Java Full Stack | Universidad de La Punta / UTN | 2022 – 2023 |
+| Desarrollador Java Full Stack | Argentina Programa / UTN | 2022 – 2023 |
 
 ---
 
